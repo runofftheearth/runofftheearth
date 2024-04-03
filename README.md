@@ -1,7 +1,3 @@
-### Hi,there
+### 欢迎你呀，旅行者
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+https://github.com/ziyuetech/ziyuetech/blob/output/github-snake.gif?raw=true
