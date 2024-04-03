@@ -1,4 +1,4 @@
-### 欢迎你呀，旅行者
+### Hi there 👋
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziyuetech/ziyuetech/output/github-contribution-grid-snake-dark.svg">
