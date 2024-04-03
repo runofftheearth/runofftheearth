@@ -1,1 +1,1 @@
-![亮色](https://raw.githubusercontent.com/ziyuetech/ziyuetech/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/ziyuetech/ziyuetech/main/assets/github-contribution-grid-snake.svg)
