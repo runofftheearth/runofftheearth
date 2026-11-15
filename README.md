@@ -1,12 +1,12 @@
 ### Hi, runofftheearth is there 👋
 
-你好呀~我是言别离。
+你好呀~我是落日也会逃跑。
 
 主要用来部署博客。
 
-📧 Email: hi@guoke.co
+📧 Email: 
 
-🌐 Website: [www.guoke.co](https://guoke.co)
+🌐 Website: 
 
 📍 Location: Anyang / Henan
 
